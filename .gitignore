@@ -1,0 +1,6 @@
+jdk-17/
+jenkins.war
+*.zip
+*.exe
+node_modules/
+target/
